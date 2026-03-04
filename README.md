@@ -19,3 +19,7 @@ This project analyzes hospital patient data using Power BI.
 
 ## Dataset
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+## Power BI Live Dashboard
+Interactive Hospital Patient Analytics Report
+https://app.powerbi.com/links/nGPylPYV79
