@@ -67,7 +67,7 @@ https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
 View the interactive Power BI dashboard:
 
-https://app.powerbi.com/groups/me/reports/23515b9b-a1e7-4e60-b648-af0ab5a38bb0/28b5b719ba21c080ed46?experience=power-bi
+https://app.powerbi.com/groups/me/reports/23515b9b-a1e7-4e60-b648-af0ab5a38bb0/6c4ac8980c25c56b7417?experience=power-bi
 
 ---
 
